@@ -1,6 +1,7 @@
 body {
     background-color: #02025b;
-    background-image: url("https://img.itch.zone/aW1hZ2UvMTIxNjU4LzU2MDM4MS5wbmc=/315x250%23c/yrkGs9.png");
+    background-image: url("./img/yrkGs9.png");
+    background-size: 700px 500px;
   }
   
   #text {
